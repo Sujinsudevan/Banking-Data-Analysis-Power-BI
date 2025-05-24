@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/02646155-a822-4541-ac5d-a17d01774bd1)
 
+[Download PowerBI file](https://drive.google.com/file/d/1JEdKjDZMgzsSxhIiqlHuCwJ3KU4gOF3L/view?usp=sharing)
 
 # Banking Data Analysis
 
